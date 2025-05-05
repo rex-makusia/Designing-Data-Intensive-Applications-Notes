@@ -1,4 +1,4 @@
-# Designing-Data-Intensive--Applications-Notes
+# Designing-Data-Intensive-Applications-Notes
 
 ## Table of Contents
 - [Chapter 1: Reliable, Scalable, and Maintainable Applications](#chapter-1-reliable-scalable-and-maintainable-applications)
