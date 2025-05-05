@@ -14,8 +14,6 @@
 - [Chapter 11: Stream Processing](#chapter-11-stream-processing)
 - [Chapter 12: The Future of Data Systems](#chapter-12-the-future-of-data-systems)
 
-I'll create a detailed explanation of each chapter from "Designing Data-Intensive Applications" by Martin Kleppmann, focusing on the key concepts covered in each chapter and their practical applications.
-
 ## Chapter 1: Reliable, Scalable, and Maintainable Applications
 
 **What it covers:**
